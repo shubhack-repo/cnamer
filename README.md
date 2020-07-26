@@ -1,6 +1,9 @@
 # cnamer
 Go-lang tool to find cname of hostnames !!
 
+#Install 
+go get github.com/shubhack-repo/cnamer
+
 hostnames.txt
 ---------------------------------
 a1.bing.com
